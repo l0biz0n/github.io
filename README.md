@@ -1,3 +1,3 @@
-# l0biz0n.github.io
+# www.l0biz0n.org
 Website de l0biz0n
-iniciando una pruba de hosting aqui
+en construccion como siempre ;>)
