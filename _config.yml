@@ -1,3 +1,5 @@
-theme: theme-minimal
+theme: jekyll-theme-cayman
 title: l0biz0n's homepage
 description: Bookmark this to keep an eye on my project updates!
+baseurl: "" # Déjalo vacío si usas el dominio principal
+url: "https://l0biz0n.github.io" # Cambia por tu URL
