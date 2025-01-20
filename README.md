@@ -1,3 +1,3 @@
-# www.l0biz0n.org
-Website de l0biz0n
-en construccion como siempre ;>)
+Website en construccion como siempre ;>)
+para comunicarse mailto:me@l0biz0n.org
+
