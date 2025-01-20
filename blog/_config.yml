@@ -1,0 +1,5 @@
+title: "Mi Blog"
+description: "Blog personal sobre tecnología y más"
+theme: jekyll-theme-cayman
+baseurl: "" # Déjalo vacío si usas la URL principal
+url: "https://tu-usuario.github.io"
